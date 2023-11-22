@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Instrument+Sans&family=Ultra&display=swap');
+
+div{
+    margin: auto;
+    padding: 10px;
+    width: 70%;
+    text-align: center;
+}
+
+body{
+    background-image: url(https://www.spain.info/export/sites/segtur/.content/imagenes/cabeceras-grandes/cataluna/camp-nou-barcelona-c-fcbarcelona.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#fondo_1{
+    background-image: url(https://pbs.twimg.com/media/FUw_QweWYAERnyK.jpg:large);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#fondo_2{
+    background-image: url(https://media.lacapital.com.ar/p/86198931bebfd1b156a31569b6e134fb/adjuntos/204/imagenes/021/118/0021118841/1200x675/smart/chacaritahinchadajpg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#fondo_3{
+    background-image: url(https://velez.com.ar/img/noticias/19/11-11-hinchas.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#fondo_4{
+    background-image: url(https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt09b9ee2a92df2221/63166fae57f95c7139a90d70/GettyImages-1242789403.jpg?auto=webp&format=pjpg&width=3840&quality=60);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#fondo_5{
+    background-image: url(https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt58865432bac9a3a3/615f497bf0cc0276fbb21110/71633abc30874051056868f0af28a89d8482ad37.jpg?auto=webp&format=pjpg&width=3840&quality=60);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#fondo_6{
+    background-image: url(https://media.minutouno.com/p/04473ec490b88e1629aa7dae142d002b/adjuntos/150/imagenes/037/456/0037456751/1200x675/smart/racingjpg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#fondo_7{
+    background-image: url(https://www.realmadrid.com/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpeg&blobkey=id&blobtable=MungoBlobs&blobwhere=1203414933563&ssbinary=true);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#fondo_8{
+    background-image: url(https://static.independent.co.uk/2022/05/23/09/2c23443419677f6abfae00c5ae530e7bY29udGVudHNlYXJjaGFwaSwxNjUzMzgwMjQ0-2.67048513.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;  
+}
+
+#fondo_9{
+    background-image: url(https://www.ole.com.ar/2022/12/06/RKmAStTYz_1580x750__1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: black;
+    background-color: rgb(255, 255, 255, 0.9);
+    border-radius: 10px;
+}
+
+h2{
+    color: black;
+    background-color: rgb(255, 255, 255, 0.9);
+    border-radius: 10px;
+}
+
+#opcion{
+    border: 15px solid white;
+    color: black;
+    border-radius: 15px;
+    background-color: white;
+    text-decoration: none;
+    font-family: 'Ultra', serif;
+}
+
+#opcion:hover{
+    background-color: red;
+}
+
+footer{
+    text-align: center;
+    font-family: Impact;
+}
+
+#texto{
+    color: black;
+    background-color:snow;
+    text-align: center;
+    border: 1px snow;
+    border-radius: 100px;
+    margin: auto;
+    padding: auto;
+    width: 30%;
+} 
+
+ul{
+    list-style: none;
+}
+
+h1{
+    font-family: 'Bree Serif', serif;
+}
+
+h2{
+    font-family: 'Instrument Sans', sans-serif;
+}
+
